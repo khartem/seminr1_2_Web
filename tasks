@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+  
+<head>
+    <title>
+        09.09
+    </title>
+     
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1", charset="UTF-8">
+    <style type="text/css">
+        a { 
+            text-decoration: none; 
+        }
+    </style>
+</head>
+ 
+<body>
+    <h1 style="font-family: Tahoma, Verdana, Segoe, sans-serif; color: #0bda51;">
+        Халилов Артём
+    </h1>
+    <h3>
+        <span style="color: #123acb">1</span>,<span style="color: #1eeecb">2</span>,<span style="color: #fffacb">3</span>,<span style="color: #643fcb">4</span>,<span style="color: #magenta">5</span>,
+        <span style="color: #ebbcfb">6</span>,<span style="color: #eb0c0c">7</span>,<span style="color: #red">8</span>,<span style="color: #103acb">9</span>,<span style="color: #023acb">10</span>
+    </h3>
+    <input type=submit value="Дата создания сайта" language="Javascript" onclick="alert('Когда была создана эта веб-страница? Проверьте заголовок страницы для ответа')">
+    <p>
+        <h2>Задача организации</h2>Постоянное информационно-пропагандистское обеспечение нашей деятельности требуют от нас анализа позиций, занимаемых участниками 
+        в отношении поставленных задач. Равным образом начало повседневной работы по формированию позиции представляет собой интересный эксперимент проверки системы обучения кадров, 
+        соответствует насущным потребностям. Идейные соображения высшего порядка, а также новая модель организационной деятельности способствует подготовки и реализации новых предложений.
+    
+        Задача организации, в особенности же начало повседневной работы по формированию позиции играет важную роль в формировании соответствующий условий активизации. С другой стороны 
+        сложившаяся структура организации в значительной степени обуславливает создание соответствующий условий активизации. Значимость этих проблем настолько очевидна, что сложившаяся 
+        структура организации способствует подготовки и реализации соответствующий условий активизации. Значимость этих проблем настолько очевидна, что новая модель организационной 
+        деятельности в значительной степени обуславливает создание существенных финансовых и административных условий. Таким образом консультация с широким активом представляет собой 
+        интересный эксперимент проверки позиций, занимаемых участниками в отношении поставленных задач. 
+    </p>
+    <p>
+        Роман <span style="text-decoration: underline">«На <span style="font-style: italic">Западном</span> фронте без перемен»</span> в <span style="font-style: italic">кратком</span> содержании изучают в <span style="font-style: italic">старших</span> классах. В книге выпускник школы <span style="text-decoration: underline">Пауль Боймер</span>, ушедший добровольцем на войну, рассказывает о том, что пережил. Произведение является <span style="font-style: italic">антивоенным</span> и затрагивает тему «<span style="font-style: italic">потерянного</span> поколения» — <span style="font-style: italic">молодых</span> людей, которые вернулись <span style="font-style: italic">живыми</span>, но не смогли адаптироваться в <span style="font-style: italic">обычной</span> жизни.
+    </p>
+    <p>
+        Квадраты:<br>
+        1<sup>2</sup>=1<br>
+        2<sup>2</sup>=4<br>
+        3<sup>2</sup>=9<br>
+        4<sup>2</sup>=16<br>
+        5<sup>2</sup>=25<br>
+        6<sup>2</sup>=36<br>
+        7<sup>2</sup>=49<br>
+        ...<br>
+        20<sup>2</sup>=400<br>
+    </p>
+    <h1>
+        Tom 9<br><br>Alice 1<br><br>Sam 7<br><br>Julia 5<br><br>Bob 2<br><br>Petr 6<br><br>Charlie 3<br><br>John 4<br><br>Sergio 8<br><br>Valentin 10
+    </h1>
+    <br><br><br><br>
+    <h1>
+        Alice 1<br><br>Bob 2<br><br>Charlie 3<br><br>John 4<br><br>Julia 5<br><br>Petr 6<br><br>Sam 7<br><br>Sergio 8<br><br>Tom 9<br><br>Valentin 10
+    </h1>
+    <p>
+        Lorem ipsum dolor sit amet, consec&nbsp;tetuer adipiscing elit. Aenean comm&nbsp;odo ligula eget dolor. Aenean massa.<br><br>
+
+        Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridi&nbsp;culus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+    </p>
+    <h1>
+        Коты
+    </h1>
+    <hr style="width: 100%">
+    <p>
+        Коты крутые UwU
+    </p>
+    <pre>
+          ／＞　 フ
+　　　　　| 　_　 _|
+　 　　　／`ミ _x 彡
+　　 　 /　　　 　 |
+　　　 /　 ヽ　　 ﾉ
+　／￣|　　 |　|　|
+　| (￣ヽ＿_ヽ_)_)
+　＼二つ
+    </pre>
+
+    <a href="https://www.google.ru/">Google</a>
+    <a href="https://www.yandex.ru/">Yandex</a><br>
+    <a href="https://www.pinterest.ru/pin/701787554423870836/" target="blanc_">Котик</a><br>
+    <a href="https://www.behance.net/artykhalilov" target="blanc_">Портфолио</a><br>
+    <a href="http://htmlbook.ru/" target="blanc_">htmlbook</a><br>
+    <a href="https://unsplash.com/" target="blanc_">unsplash</a><br>
+    <a href="https://www.pinterest.ru/pin/584693964129391006/" target="blanc_">Poster Design</a>
+</body>
+  
+</html>
